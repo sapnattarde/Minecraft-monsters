@@ -1,0 +1,30 @@
+h1{
+  color:white;
+  font-family:fantasy;
+  text-align:center;
+  font-size:80px;
+}
+
+table{
+  width:80%;
+  font-family:fantasy;
+  margin-left:10%;
+  background-color:lightgray;
+  border-radius:1em;
+  border:solid black;
+  padding:20px;
+  box-shadow:8px 8px 16px rgba(0,255,0,1);
+}
+th{
+   font-size:40px;
+   border :solid black;
+   border-width:0px 0px 5px 0px;
+}
+td{
+  font-size:30px;
+   padding: 50px;
+}
+img{
+  height:150px;
+  width:150px;
+}
